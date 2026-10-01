@@ -27,10 +27,12 @@ journals, advice dedup. Zero dependencies, one script.
 
 Most of what I build is private.
 
-**Canopy** — landscape management software. It connects the parts of the
-financial cycle that normally never talk to each other, from what you charge for
-a job to what it actually cost you, and teaches the owner how to run the company
-while they use it.
+**Canopy** — landscape management software. The industry runs on 1–3% profit, and
+a lot of that is owners working off old tools, cut off from their own financial
+cycle. Canopy connects the parts that normally never talk to each other, from
+what you charge for a job to what it actually cost you, and teaches the owner how
+to run the company while they use it. Same instinct as the Apple work: fix the
+tool.
 
 Alongside that: a lead intake and routing system running today for a paying
 customer, financial analysis tooling for a CPA-led consultancy, and a complaints
